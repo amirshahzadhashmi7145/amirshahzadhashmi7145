@@ -39,9 +39,7 @@ Python first. FastAPI and Node.js/TypeScript on the backend, React on the front,
 
 <img src="https://streak-stats.demolab.com?user=amirshahzadhashmi7145&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
 
-<!-- Optional LeetCode card, add your username and uncomment:
-<img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Fira+Code" alt="LeetCode stats" />
--->
+<img src="https://leetcard.jacoblin.cool/amirshahzadhashmi7145?theme=dark&font=Fira+Code" alt="LeetCode stats" />
 
 ## Find me
 
