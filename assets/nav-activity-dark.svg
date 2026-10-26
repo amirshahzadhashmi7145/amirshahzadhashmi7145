@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="46" viewBox="0 0 150 46" role="img" aria-labelledby="t d">
+<title id="t">Activity</title>
+<desc id="d">Jump to Activity</desc>
+<defs></defs>
+<style>
+
+</style>
+<rect x=".75" y=".75" width="148.5" height="44.5" rx="23" fill="#10161f" stroke="#1f2a38" stroke-width="1.5"/>
+<text x="20" y="28" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" letter-spacing="1" fill="#22d3ee">04</text>
+<text x="50" y="29" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Activity</text>
+<path d="M124 19l4 4 4-4" stroke="#5b6673" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

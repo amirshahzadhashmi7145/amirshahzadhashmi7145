@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="176" viewBox="0 0 1200 176" role="img" aria-labelledby="t d">
+<title id="t">Let's ship something that works.</title>
+<desc id="d">AVAILABLE FOR WORK. AI engineering roles · contracts · open source · Islamabad, remote-friendly. Connect on LinkedIn.</desc>
+<defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.3" fill="#e4e9ee"/></pattern><radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1006 88) scale(320 160)"><stop offset="0" stop-color="#0e7490" stop-opacity=".12"/><stop offset="1" stop-color="#0e7490" stop-opacity="0"/></radialGradient>
+  <clipPath id="bc"><rect x="856" y="58" width="300" height="60" rx="30"/></clipPath>
+  <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<style>
+.h{font:700 38px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#0f172a;letter-spacing:-1px}
+  .s{font:400 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#526071}
+  .pill{font:600 13px ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace;fill:#1a7f37;letter-spacing:1px}
+  .word{opacity:0;animation:in .9s cubic-bezier(.22,1,.36,1) forwards}@keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+  .sheen{animation:sh 5s ease-in-out infinite}@keyframes sh{0%,65%{transform:translateX(-120px)}100%{transform:translateX(360px)}}
+  .pulse{animation:pulse 2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.ring{animation:ring 2s ease-out infinite}@keyframes ring{0%{transform:scale(.6);opacity:.7}100%{transform:scale(2.4);opacity:0}}.arrow{animation:nudge 2.4s cubic-bezier(.22,1,.36,1) infinite}@keyframes nudge{0%,60%,100%{transform:none}75%{transform:translate(3px,-3px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}.word{opacity:1}.sheen{opacity:0}}
+</style>
+<path d="M0 176V24A24 24 0 0 1 24 0H1176A24 24 0 0 1 1200 24V176Z" fill="#f8fafc"/><path d="M0 176V24A24 24 0 0 1 24 0H1176A24 24 0 0 1 1200 24V176Z" fill="url(#dots)"/><path d="M0 176V24A24 24 0 0 1 24 0H1176A24 24 0 0 1 1200 24V176Z" fill="url(#glow)"/>
+<path d="M.5 176V24A23.5 23.5 0 0 1 24 .5H1176A23.5 23.5 0 0 1 1199.5 24V176" fill="none" stroke="#e2e8f0"/>
+<g transform="translate(44 34)"><rect width="191" height="28" rx="14" fill="#1a7f37" fill-opacity=".1" stroke="#1a7f37" stroke-opacity=".4"/>
+  <circle cx="18" cy="14" r="4.5" fill="#1a7f37" class="pulse"/><text x="32" y="19" class="pill">AVAILABLE FOR WORK</text></g>
+<text x="44" y="106" class="h"><tspan class="word" style="animation-delay:0.15s">Let's </tspan><tspan class="word" style="animation-delay:0.24s">ship </tspan><tspan class="word" style="animation-delay:0.33s">something </tspan><tspan class="word" style="animation-delay:0.42s">that </tspan><tspan class="word" style="animation-delay:0.51s" fill="#0e7490">works. </tspan></text>
+<text x="44" y="140" class="s">AI engineering roles · contracts · open source · Islamabad, remote-friendly</text>
+<g clip-path="url(#bc)"><rect x="856" y="58" width="300" height="60" fill="#0e7490"/><rect class="sheen" x="856" y="58" width="80" height="60" fill="url(#sh)"/></g>
+<g transform="translate(886 76) scale(1)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></g>
+<text x="922" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="650" fill="#ffffff">Connect on LinkedIn</text>
+<g class="arrow"><g transform="translate(1112 78) scale(0.8333333333333334)" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10" /> <path d="M7 17 17 7" /></g></g>
+</svg>

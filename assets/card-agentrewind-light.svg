@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="350" viewBox="0 0 540 350" role="img" aria-labelledby="t d">
+<title id="t">AgentRewind: devtools · agents</title>
+<desc id="d">Record, inspect and replay agent runs so you can debug one bad decision without rerunning the whole thing. A small Python SDK wraps LLM and tool calls as spans. Built with Python, SDK, Tracing, React. Status: Active.</desc>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.3" fill="#e4e9ee"/></pattern><clipPath id="clip"><rect width="540" height="350" rx="24"/></clipPath></defs>
+<style>
+.n{font:600 13px ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace;letter-spacing:2px;fill:#0e7490}
+  .k{font:600 13px ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace;letter-spacing:2px;fill:#526071}
+  .title{font:700 34px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#0f172a;letter-spacing:-.7px}
+  .body{font:400 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#526071}
+  .wm{animation:wm 9s ease-in-out infinite;transform-origin:455px 83px}@keyframes wm{0%,100%{transform:translateY(0) rotate(-6deg)}50%{transform:translateY(-8px) rotate(4deg)}}
+  .sheen{animation:sheen 7s ease-in-out infinite;animation-delay:1.4s}@keyframes sheen{0%,70%{transform:translateX(-260px)}100%{transform:translateX(620px)}}
+  .pulse{animation:pulse 2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.ring{animation:ring 2s ease-out infinite}@keyframes ring{0%{transform:scale(.6);opacity:.7}100%{transform:scale(2.4);opacity:0}}.arrow{animation:nudge 2.4s cubic-bezier(.22,1,.36,1) infinite}@keyframes nudge{0%,60%,100%{transform:none}75%{transform:translate(3px,-3px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}.sheen,.ring{opacity:0}}
+</style>
+<g clip-path="url(#clip)">
+  <rect width="540" height="350" fill="#f8fafc"/><rect width="540" height="350" fill="url(#dots)"/>
+  <rect class="sheen" x="0" y="-40" width="70" height="430" fill="#0f172a" fill-opacity="0.035" transform="skewX(-18)"/>
+  <g class="wm" opacity=".55"><g transform="translate(400 28) scale(4.583333333333333)" fill="none" stroke="#cbd5e1" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 12 18z" /> <path d="M22 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 22 18z" /></g></g>
+</g>
+<rect x=".5" y=".5" width="539" height="349" rx="24" fill="none" stroke="#e2e8f0"/>
+<text x="30" y="44" class="n">02</text><text x="64" y="44" class="k">DEVTOOLS · AGENTS</text>
+<text x="30" y="86" class="title">AgentRewind</text>
+<text x="30" y="124" class="body">Record, inspect and replay agent runs so you can</text><text x="30" y="150" class="body">debug one bad decision without rerunning the</text><text x="30" y="176" class="body">whole thing. A small Python SDK wraps LLM and</text><text x="30" y="202" class="body">tool calls as spans.</text>
+<rect x="30" y="240" width="80" height="30" rx="15" fill="#eef2f6" stroke="#e2e8f0"/><text x="70" y="260.04" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="500" fill="#0f172a">Python</text><rect x="118" y="240" width="54" height="30" rx="15" fill="#eef2f6" stroke="#e2e8f0"/><text x="145" y="260.04" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="500" fill="#0f172a">SDK</text><rect x="180" y="240" width="89" height="30" rx="15" fill="#eef2f6" stroke="#e2e8f0"/><text x="224.5" y="260.04" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="500" fill="#0f172a">Tracing</text><rect x="277" y="240" width="71" height="30" rx="15" fill="#eef2f6" stroke="#e2e8f0"/><text x="312.5" y="260.04" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="500" fill="#0f172a">React</text>
+<g><rect x="30" y="294" width="96" height="32" rx="16" fill="#eef2f6" stroke="#e2e8f0"/>
+  <circle cx="46" cy="310" r="4.5" fill="#1a7f37" class="ring" style="transform-origin:46px 310px"/>
+  <circle cx="46" cy="310" r="4.5" fill="#1a7f37" class="pulse"/>
+  <text x="58" y="315" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#0f172a">Active</text></g>
+<g class="arrow"><g transform="translate(484 294) scale(1)" fill="none" stroke="#8a97a6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10" /> <path d="M7 17 17 7" /></g></g>
+</svg>

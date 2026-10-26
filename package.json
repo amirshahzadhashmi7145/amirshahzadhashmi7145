@@ -1,0 +1,10 @@
+{
+  "name": "profile-readme",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-svgs.mjs",
+    "activity:demo": "node scripts/build-activity.mjs --demo --out dist",
+    "icons": "node scripts/fetch-icons.mjs"
+  }
+}
