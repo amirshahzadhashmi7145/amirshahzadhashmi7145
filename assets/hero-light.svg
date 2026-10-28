@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
 <title id="t">Amir Shahzad Hashmi</title>
-<desc id="d">Amir Shahzad Hashmi. I build LLM agents that ship to production. RAG pipelines with evals before release. RLHF benchmark tasks and graders. automation that replaces manual work. AI engineer · Python first · Islamabad, Pakistan. Building for real users since 2021. Open to AI engineering roles and open source.</desc>
+<desc id="d">Amir Shahzad Hashmi. I build LLM agents that ship to production. RAG pipelines with evals before release. RLHF benchmark tasks and graders. automation that replaces manual work. AI engineer · Python first · amirshahzadhashmi.com. Building for real users since 2021. Open to AI engineering roles and open source.</desc>
 <defs><radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 212) scale(300 260)"><stop offset="0" stop-color="#0e7490" stop-opacity=".14"/><stop offset="1" stop-color="#0e7490" stop-opacity="0"/></radialGradient>
       <clipPath id="hc"><rect width="1200" height="420" rx="22"/></clipPath></defs>
 <style>
@@ -37,7 +37,7 @@
 <g class="word" style="animation-delay:.1s"><text x="60" y="150" class="name">Amir Shahzad Hashmi</text></g>
 <g class="fade">
   <text x="60" y="206" class="lead">I build</text>
-  <g><circle cx="66" cy="304" r="4.5" class="dot pulse"/><text x="82" y="309" class="meta">AI engineer · Python first · Islamabad, Pakistan</text></g>
+  <g><circle cx="66" cy="304" r="4.5" class="dot pulse"/><text x="82" y="309" class="meta">AI engineer · Python first · amirshahzadhashmi.com</text></g>
   <text x="60" y="346" class="tag">Building for real users since 2021. Open to AI engineering roles and open source.</text>
 </g>
 <text x="60" y="250" class="phrase" style="animation-delay:0s">LLM agents that ship to production.</text><text x="60" y="250" class="phrase" style="animation-delay:4s">RAG pipelines with evals before release.</text><text x="60" y="250" class="phrase" style="animation-delay:8s">RLHF benchmark tasks and graders.</text><text x="60" y="250" class="phrase" style="animation-delay:12s">automation that replaces manual work.</text>

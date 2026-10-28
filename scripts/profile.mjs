@@ -1,6 +1,7 @@
 // Everything personal lives here. Edit this file, run `node scripts/build-svgs.mjs`, commit.
 
 export const USER = 'amirshahzadhashmi7145';
+export const SITE = 'https://amirshahzadhashmi.com';
 
 export const HERO = {
   name: 'Amir Shahzad Hashmi',
@@ -13,7 +14,7 @@ export const HERO = {
     'RLHF benchmark tasks and graders.',
     'automation that replaces manual work.',
   ],
-  meta: 'AI engineer · Python first · Islamabad, Pakistan',
+  meta: 'AI engineer · Python first · amirshahzadhashmi.com',
   tagline: 'Building for real users since 2021. Open to AI engineering roles and open source.',
 };
 
@@ -150,6 +151,6 @@ export const CTA = {
 export const SOCIAL = [
   { key: 'linkedin', label: 'LinkedIn', sub: 'amir-shahzad-hashmi', href: 'https://www.linkedin.com/in/amir-shahzad-hashmi/', icon: 'linkedin-glyph', color: '#0A66C2' },
   { key: 'email', label: 'Email', sub: 'gmail · say hello', href: 'mailto:amirshahzadhashmi7145@gmail.com', icon: 'mail', color: '#EA4335' },
-  { key: 'portfolio', label: 'Portfolio', sub: 'my portfolio site', href: 'https://amirshahzadhashmi7145.github.io/Amir-Portfolio/', icon: 'globe', color: null },
+  { key: 'portfolio', label: 'Portfolio', sub: 'amirshahzadhashmi.com', href: 'https://amirshahzadhashmi.com', icon: 'globe', color: null },
   { key: 'leetcode', label: 'LeetCode', sub: 'daily problems', href: 'https://leetcode.com/amirshahzadhashmi7145/', icon: 'leetcode', color: '#FFA116' },
 ];
